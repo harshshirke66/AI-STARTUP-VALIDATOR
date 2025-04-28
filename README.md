@@ -100,11 +100,9 @@ Active Users, User Retention Rate, Sales Revenue, CAC (Customer Acquisition Cost
 
 > Check out the live demo! 🎥
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch Demo](https://www.youtube.com/embed/-8UAC2W2Ges?si=XfPBgWUNHSQJWLTE)
 
-> _Note: Replace `YOUR_VIDEO_ID` with your uploaded YouTube demo video ID._
 
----
 
 ## 🙌 Future Enhancements
 
