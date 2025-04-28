@@ -86,6 +86,26 @@ Active Users, User Retention Rate, Sales Revenue, CAC (Customer Acquisition Cost
 
 ---
 
+## 📸 Screenshots
+
+| Home Page | Analysis Result |
+|:---:|:---:|
+| ![Home Screenshot](./assets/homepage.png) | ![Analysis Screenshot](./assets/analysis.png) |
+
+> _Note: Replace the above paths with your actual screenshots stored in the `/assets/` folder._
+
+---
+
+## 🎬 Demo Video
+
+> Check out the live demo! 🎥
+
+[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+> _Note: Replace `YOUR_VIDEO_ID` with your uploaded YouTube demo video ID._
+
+---
+
 ## 🙌 Future Enhancements
 
 - 📥 **Download Reports as PDF**
@@ -110,4 +130,5 @@ See the [LICENSE](LICENSE) file for details.
 ---
 
 > Made with ❤️ using React, Tailwind, and Gemini AI 🚀
+
 
