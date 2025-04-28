@@ -95,13 +95,15 @@ Active Users, User Retention Rate, Sales Revenue, CAC (Customer Acquisition Cost
 > _Note: Replace the above paths with your actual screenshots stored in the `/assets/` folder._
 
 ---
+## 🎥 Project Demo
 
-## 🎬 Demo Video
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=-8UAC2W2Ges" target="_blank">
+    <img src="https://img.youtube.com/vi/-8UAC2W2Ges/0.jpg" alt="Watch Demo Video" width="600"/>
+  </a>
+</p>
 
-> Check out the live demo! 🎥
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-8UAC2W2Ges" title="Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[▶ Watch on YouTube](https://www.youtube.com/watch?v=-8UAC2W2Ges)
 
 
 
