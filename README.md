@@ -69,7 +69,7 @@ Active Users, User Retention Rate, Sales Revenue, CAC (Customer Acquisition Cost
 
 ## 🚀 Deployment
 
-> This project is live and deployed on [Vercel](https://vercel.com/).
+> This project is live and deployed on [AI STARTUP VALIDATOR](https://startupvalidator-navy.vercel.app/).
 
 ---
 
@@ -90,9 +90,8 @@ Active Users, User Retention Rate, Sales Revenue, CAC (Customer Acquisition Cost
 
 | Home Page | Analysis Result |
 |:---:|:---:|
-| ![Home Screenshot](./assets/homepage.png) | ![Analysis Screenshot](./assets/analysis.png) |
+| ![Home Screenshot](https://i.ibb.co/JRcHM94W/Screenshot-2025-04-28-210728.png) | ![Analysis Screenshot](https://i.ibb.co/h1RTYRVn/Screenshot-2025-04-28-210834.png) |
 
-> _Note: Replace the above paths with your actual screenshots stored in the `/assets/` folder._
 
 ---
 ## 🎥 Project Demo
